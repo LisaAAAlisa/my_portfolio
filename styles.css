@@ -1,0 +1,11 @@
+body {
+    background-image: url("./assets/images/pexels-photo-1103970.jpeg");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.about-me {
+    background-color: aquamarine;
+}
+
+
