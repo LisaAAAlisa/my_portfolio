@@ -5,7 +5,11 @@ body {
 }
 
 .about-me {
-    background-color: aquamarine;
+    background-color: rgb(169, 154, 189);
+}
+
+.about-me {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 }
 
 
