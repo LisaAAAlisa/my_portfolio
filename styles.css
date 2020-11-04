@@ -6,12 +6,22 @@ body {
 
 .about-me {
     background-color: rgb(169, 154, 189);
-}
-
-.about-me {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
-    font-;
     text-align: justify;
 }
+.navbar-brand {
+font-size: 2em;
 
+}
+
+#navbarNav {
+    font-size: 1.5em;
+}
+
+.contact-side {
+    font-size: 1em;
+}
+.pf-bg-color {
+    background-color: brown;
+}
 
