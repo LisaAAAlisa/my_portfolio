@@ -20,5 +20,8 @@ font-size: 2em;
 .contact-side {
     font-size: 1em;
 }
-
+.header {
+    margin-left: 1.5em;
+    margin-top: .5em;
+}
 
