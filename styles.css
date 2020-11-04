@@ -5,7 +5,6 @@ body {
 }
 
 .about-me {
-    background-color: rgb(169, 154, 189);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     text-align: justify;
 }
@@ -21,7 +20,5 @@ font-size: 2em;
 .contact-side {
     font-size: 1em;
 }
-.pf-bg-color {
-    background-color: brown;
-}
+
 
