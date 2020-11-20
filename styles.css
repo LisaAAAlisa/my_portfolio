@@ -25,3 +25,12 @@ font-size: 2em;
     margin-top: .5em;
 }
 
+.with-image {
+    text-align: jistified;
+}
+
+.img-fluid {
+    width: 308px;
+    height: 148px;
+}
+
