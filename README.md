@@ -20,9 +20,9 @@ This assignment is about designing a responsive website that works well on all t
 * I'd prefer not to update my picture until I take the one I like sometime at a later date, but before the end of this class
 
 ##### images
-![Images of main page](./assets.pic1.png)
-![Image of portfolio](./assets.pic2.png)
-![Image of contact me](./assets.pic3.png)
+![Image of main page](./assets/images/pic1.png)
+![Image of portfolio](./assets/images/pic2.png)
+![Image of contact me](./assets/images/pic3.png)
 
 
 
