@@ -10,5 +10,19 @@ This assignment is about designing a responsive website that works well on all t
 *All pages gave been checked on my mobile phone to ensure responsiveness.
 *The images have been made responsive to screen change.
 
+### Additional work done
+*I udpated this portolio to include links to my GitHub and resume
+*Udpated portfolio page with images of work and links to deployed apps
+*Updated some styling and added a new fontawesome link
+
+#### ISSUES 
+* Today I discovered that my 10-year-old computer doesn't print to pdf, so the link is to a word doc. 
+* I'd prefer not to update my picture until I take the one I like sometime at a later date, but before the end of this class
+
+##### images
+![Images of main page](./assets.pic1.png)
+![Image of portfolio](./assets.pic2.png)
+![Image of contact me](./assets.pic3.png)
+
 
 
