@@ -11,7 +11,7 @@ This assignment is about designing a responsive website that works well on all t
 *The images have been made responsive to screen change.
 
 ### Link to portfolio
-(https://lisaaaalisa.github.io/my_portfolio)
+https://lisaaaalisa.github.io/my_portfolio
 
 
 #### images
